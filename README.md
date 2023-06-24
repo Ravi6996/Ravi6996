@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ravi6996
-- 👀 I’m interested in coding and crwating projects
+- 👀 I’m interested in coding and creating projects
 - 🌱 I’m currently learning machine larning
 - 💞️ I’m looking to collaborate on none
 - 📫 you cant reach me
